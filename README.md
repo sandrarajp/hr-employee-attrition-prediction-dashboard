@@ -1,5 +1,5 @@
 
-# HR Employee Attrition Prediction Dashboard
+# HR Employee Attrition Prediction Dashboard using Ploty Dash
 
 This project analyzes and predicts employee attrition using the IBM HR Analytics Employee Attrition Dataset. It combines exploratory data analysis (EDA) with machine learning classification and presents insights through a web-based dashboard built with Plotly Dash.
 
